@@ -1,0 +1,30 @@
+.statistics {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+
+}
+.title {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.statList {
+    background-color: aquamarine;
+    display: flex;
+    list-style: none;
+    height: 50px;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.item {
+
+    padding: 5px;
+    border: solid 1px black;
+}
