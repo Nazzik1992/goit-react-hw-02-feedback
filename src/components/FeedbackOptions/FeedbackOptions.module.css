@@ -1,0 +1,24 @@
+
+.btnContainer{
+    display: flex;
+    gap: 10px;
+}
+.positiveBtn {
+    background-color:  rgb(5, 170, 5);
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 5px;
+}
+.neutralBtn {
+    background-color: yellow;
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 5px;
+    
+}
+.badBtn {
+    background-color: red;
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 5px;
+}
